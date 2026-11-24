@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://kandomarketing.com"><img src="https://kandomarketing.com/apple-touch-icon.png" width="72" alt="Kando"></a>
+  <a href="https://kandomarketing.com"><img src="assets/kando-logo.png" width="220" alt="Kando"></a>
 </p>
-
-<h3 align="center">Kando</h3>
 
 <p align="center">
   Growth marketing agency in Dubai, Kuwait and Beirut.<br>
